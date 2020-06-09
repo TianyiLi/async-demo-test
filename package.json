@@ -8,6 +8,7 @@
   "dependencies": {
     "@types/async": "^3.2.3",
     "async": "^3.2.0",
+    "gh-pages": "^3.0.0",
     "gsap": "^3.3.1",
     "rxjs": "^6.5.5",
     "stylus": "^0.54.7",
