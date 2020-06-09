@@ -27,7 +27,6 @@ export default {
     background-color #409eff
     text-align right
     border-radius 13px
-    transition width 1s linear
     .progress-text
       color white
       font-size 12px
